@@ -2,12 +2,8 @@
 
 A Flutter plugin for Android and iOS supports cropping images
 
-[![pub package](https://img.shields.io/pub/v/image_cropper.svg)](https://pub.dartlang.org/packages/image_cropper)
+[![pub package](https://img.shields.io/pub/v/image_cropper.svg)](https://pub.flutter-io.cn/packages/flutter_tenc_map#-installing-tab-)
 
-<p>
-	<img src="https://github.com/hnvn/flutter_image_cropper/blob/master/screenshots/android.gif?raw=true" width="250" height="443"  />
-	<img src="https://github.com/hnvn/flutter_image_cropper/blob/master/screenshots/ios.gif?raw=true" width="250" height="443" />
-</p>
 
 ## Installation
 
